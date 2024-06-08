@@ -1,0 +1,1 @@
+After setting up Git and GitHub and being introduced to HTML, I will now attempt to create my first "The Odin Project" project titled "Recipes"
